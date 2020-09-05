@@ -9,7 +9,7 @@
 ## Technology Used
 * Python
 * Pip
-* Pypeerclip
+* Pyperclip
 
 ## How to access it 
 You can access it by cloning the [Repository](https://github.com/annaadhiambo/Password-Locker.git)
