@@ -11,6 +11,9 @@
 * Pip
 * Pyperclip
 
+## Support and Contact Details
+* Contact me @ annaadhiambo01@gmail.com
+
 ## How to access it 
 You can access it by cloning the [Repository](https://github.com/annaadhiambo/Password-Locker.git)
 ```
